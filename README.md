@@ -286,3 +286,11 @@ Daily check-in repository to keep GitHub green grid active.
 **励志金句：** “Simplicity is the soul of efficiency.” — Austin Freeman
 
 来源：[GitHub Trending](https://github.com/trending)；金句参考：[BrainyQuote](https://www.brainyquote.com/quotes/austin_freeman_386591)
+
+## 2026-11-11
+
+今日 GitHub Trending 页面（日期范围：Today）展示了 `meta/astryx`（面向 Agent 的可定制设计系统）、`anthropics/skills`（Agent Skills 公共仓库）、`addyosmani/agent-skills`（AI 编程 Agent 的生产级工程技能）、`anthropics/claude-quickstarts`（可部署 AI 应用快速入门）、`google-deepmind/mujoco`（多物理系统与接触动力学仿真器）、`we-promise/sure`、`homeassistant-ai/ha-mcp`、`vercel-labs/agent-browser` 和 `sherlock-project/sherlock` 等项目。今日榜单体现了 AI Agent 正进一步融入 UI 设计、应用交付、物理仿真、智能家居、浏览器自动化与 OSINT 工具。[1]
+
+> “Simplicity is the soul of efficiency.” — Austin Freeman [2]
+
+**参考资料：** [1] [GitHub Trending](https://github.com/trending)；[2] [Austin Freeman quote](https://www.brainyquote.com/quotes/austin_freeman_386591)
