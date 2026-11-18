@@ -354,3 +354,13 @@ Daily check-in repository to keep GitHub green grid active.
 > “Simplicity is the soul of efficiency.” — Austin Freeman [2]
 
 **参考资料：** [1] [GitHub Trending](https://github.com/trending)；[2] [Austin Freeman quote](https://www.brainyquote.com/quotes/austin_freeman_386591)
+
+## 2026-11-18
+
+今日 GitHub Trending 页面（Date range: Today）展示了 `elementalsouls/Claude-BugHunter`（漏洞挖掘与红队技能包）、`mvanhorn/last30days-skill`（跨 Reddit、X、YouTube、Hacker News、Polymarket 和全网研究主题的 AI Agent 技能）、`alibaba/open-code-review`（确定性流水线与 LLM Agent 混合架构的代码审查工具）、`Tencent/LoopForge`（面向编码 Agent 交付的自托管工作流）、`dream-num/univer`（面向人类和 AI Agent 的开源 Office SDK）、`getarcaneapp/arcane`、`google-labs-code/stitch-skills`、`cursor/plugins`、`obra/superpowers`、`ag-ui-protocol/ag-ui` 和 `backnotprop/plannotator` 等项目。[1]
+
+今日榜单集中在安全红队、跨平台信息研究、LLM 代码审查、自托管 Agent 交付、AI 办公和开发者插件，显示 Agent 生态正同时向安全、研究、工程交付和团队协作等专业环节扩展。[1]
+
+> “Simplicity is the soul of efficiency.” — Austin Freeman [2]
+
+**参考资料：** [1] [GitHub Trending](https://github.com/trending)；[2] [Austin Freeman quote](https://www.brainyquote.com/quotes/austin_freeman_386591)
