@@ -364,3 +364,13 @@ Daily check-in repository to keep GitHub green grid active.
 > “Simplicity is the soul of efficiency.” — Austin Freeman [2]
 
 **参考资料：** [1] [GitHub Trending](https://github.com/trending)；[2] [Austin Freeman quote](https://www.brainyquote.com/quotes/austin_freeman_386591)
+
+## 2026-11-19
+
+今日 GitHub Trending 页面（Date range: Today）展示了 `cursor/plugins`（Cursor 插件规范与官方插件集合）、`HKUDS/CLI-Anything`（旨在让所有软件具备 Agent 原生能力的 CLI 工具集合）、`mvanhorn/last30days-skill`（跨平台信息研究与综合摘要的 AI Agent 技能）、`getarcaneapp/arcane`（现代 Docker 管理工具）、`NVIDIA/SkillEvaluator`（包含质量门禁、安全扫描和实时评估的 AI Agent 技能与插件评估框架）、`nvm-sh/nvm`、`astral-sh/uv`、`google-research/paper-orchestra` 和 `google-labs-code/stitch-skills` 等项目。[1]
+
+今日榜单突出 Agent 原生软件接口、跨平台信息研究、Docker 管理和 AI Agent 技能评估，说明 Agent 生态正在从“调用模型”进一步发展为可评估、可集成、可自动化交付的软件工具链。[1]
+
+> “Simplicity is the soul of efficiency.” — Austin Freeman [2]
+
+**参考资料：** [1] [GitHub Trending](https://github.com/trending)；[2] [Austin Freeman quote](https://www.brainyquote.com/quotes/austin_freeman_386591)
