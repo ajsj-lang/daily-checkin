@@ -424,3 +424,13 @@ Daily check-in repository to keep GitHub green grid active.
 > “Simplicity is the soul of efficiency.” — Austin Freeman [2]
 
 **参考资料：** [1] [GitHub Trending](https://github.com/trending)；[2] [Austin Freeman quote](https://www.brainyquote.com/quotes/austin_freeman_386591)
+
+## 2026-11-25
+
+今日 GitHub Trending 页面（Date range: Today）展示了 `elementalsouls/Claude-BugHunter`（漏洞挖掘与红队技能包）、`obra/superpowers`（Agent 技能框架与软件开发方法论）、`HKUDS/CLI-Anything`（让软件具备 Agent 原生能力的 CLI 工具集合）、`jingyaogong/minimind`（两小时从零训练 64M 大模型的实践项目）、`cursor/plugins`（Cursor 插件规范与官方插件集合）、`firecrawl/firecrawl`（提供搜索、抓取和 550 多个数据源的知识基础设施）、`nginx/nginx` 和 `openvinotoolkit/openvino` 等项目。[1]
+
+今日趋势延续 Agent 安全技能、开发方法论、Agent 原生 CLI、轻量模型训练、插件生态、知识抓取和推理基础设施等方向，显示 AI 工具链正在把模型能力封装为可复用的软件工程组件。[1]
+
+> “Simplicity is the soul of efficiency.” — Austin Freeman [2]
+
+**参考资料：** [1] [GitHub Trending](https://github.com/trending)；[2] [Austin Freeman quote](https://www.brainyquote.com/quotes/austin_freeman_386591)
